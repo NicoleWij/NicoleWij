@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nicole!
 - 👨‍💻 MSc in Computer Science at KTH Royal Institute of Technology
-- 🌱 Currently learning about Parallel and Distributed Computing & Scalable Software Development
+- 🌱 Currently writing my Master's Thesis in collaboration with Klimra!
 - 🔭 On my free time, I enjoy learning game development and am currently working on a horror RPG game!
 - 📫 How to reach me: nicole.wijkman@gmail.com
 
