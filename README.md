@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nicole!
 - 👨‍💻 MSc in Computer Science at KTH Royal Institute of Technology
 - 🌱 Currently writing my Master's Thesis in collaboration with Klimra!
-- 🔭 On my free time, I enjoy learning game development and am currently working on a horror RPG game as well as a personal website for my Dungeons and Dragons world!
+- 🔭 On my free time, I am currently working on a horror RPG game as well as a personal website for my Dungeons and Dragons world!
 - 📫 How to reach me: nicole.wijkman@gmail.com
 
 Connect with me on LinkedIn!
